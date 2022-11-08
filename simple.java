@@ -6,7 +6,6 @@ class simple {
      String a="x";
      int count =0;
      String b="";
-     
      Scanner sc = new Scanner(System.in);
      while(a!=b){
         System.out.println("Enter a value");
