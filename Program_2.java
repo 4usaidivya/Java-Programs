@@ -1,6 +1,15 @@
 //Problem Statement:Take 2 numbers as inputs and find their HCF and LCM.
 //Time complexity: O(min(a,b)).
 //Space Complexitty: O(1) or Constant. Because we are not using any additional memory.
+
+//Output
+// Enter the value of 1st number:
+// 8
+// Enter the value of 2nd number:
+// 18
+// HCF of given two numbers is:2
+// LCM of given two numbers is:72
+
 import java.util.*;
 class Program_2{
     public static void main(String arg[]){
@@ -13,8 +22,12 @@ class Program_2{
         num2=sc.nextInt();
         int gcd=gcd(num1,num2);
         System.out.println("HCF of given two numbers is:"+gcd);
-        int lcm=(num1*num2)/gcd;
-        System.out.println("LCM of given two numbers is:"+lcm);
+        if(gcd!=0){
+            int lcm=(num1*num2)/gcd;
+            System.out.println("LCM of given two numbers is:"+lcm);
+
+        }
+        
 
 
     }

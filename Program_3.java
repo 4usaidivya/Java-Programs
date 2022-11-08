@@ -20,7 +20,7 @@
 
 import java.util.*;
 class Program_3{
-    public static void main(String arg[]){
+    public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         int year=0;
         System.out.println("Enter the Year:");
