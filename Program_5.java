@@ -3,6 +3,11 @@
 //Problem Statement: Take name as input and print a greeting message for that particular name.
 // Time complexity : O(1)
 // Space complexity : O(1)
+
+//Output
+//Enter your name:Divya
+//        Hello Divya!!!
+
 import java.util.*;
 public class Program_5{
     public static void main(String[] args) {
