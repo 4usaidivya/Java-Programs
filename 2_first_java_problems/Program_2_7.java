@@ -10,7 +10,7 @@
 // Fibonaci series of 7th digit: 8
 
 import java.util.*;
-public class Program_7 {
+public class Program_2_7 {
     public static void main(String[] args) {
         int a=0;
         int b=1;

@@ -12,7 +12,7 @@ import java.util.Scanner;
 // The simple Interest of a given values is: 875.0
 
 import java.util.*;
-public class Program_3 {
+public class Program_2_3 {
     public static void main(String[] args) {
         float si,p,t,r;
         Scanner input = new Scanner(System.in);

@@ -23,7 +23,7 @@
 // Enter a valid number other than '0' for a second number
 
 import java.util.*;
-public class Program_4 {
+public class Program_2_4 {
     public static void main(String[] args) {
         int num1,num2;
         char op;

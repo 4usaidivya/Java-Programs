@@ -11,7 +11,7 @@
 // Largest number is: 5
 
 import java.util.*;
-public class Program_5 {
+public class Program_2_5 {
     public static void main(String[] args) {
         int num1,num2;
         Scanner input = new Scanner(System.in);

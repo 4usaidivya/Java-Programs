@@ -15,7 +15,7 @@
 // 120 is not a Armstrong number.
 
 import java.util.*;
-public class Program_9 {
+public class Program_2_9 {
    public static void main(String[] args) {
     int n,temp,a,b;
     int count=0;

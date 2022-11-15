@@ -15,7 +15,7 @@ import java.util.Scanner;
 // Sum of the integers 15
 
 
-class Program_5 {  
+class Program_1_5 {  
     public static void main(String args[]){  
      String a="x";
      int count =0;
