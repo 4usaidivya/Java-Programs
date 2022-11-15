@@ -1,6 +1,6 @@
 
 //Problem statement: To find Armstrong Number between two given number.
-//Time Complexity:O(size of number of digits in a number)
+//Time Complexity:O(log n)
 //Space Complexity:O(1)
 
 //Output
