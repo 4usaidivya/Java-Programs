@@ -19,7 +19,7 @@
 // 1900 is not a leap year.
 
 import java.util.*;
-class Program_3{
+class Program_1{
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         int year=0;

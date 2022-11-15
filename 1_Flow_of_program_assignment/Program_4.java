@@ -11,7 +11,7 @@
 // LCM of given two numbers is:72
 
 import java.util.*;
-class Program_2{
+class Program_4{
     public static void main(String arg[]){
         Scanner sc =new Scanner(System.in);
         int num1 =0;
