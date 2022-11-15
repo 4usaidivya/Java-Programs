@@ -10,7 +10,7 @@
 
 import java.util.*;
 
-public class Program_13 {
+public class Program_1 {
     public static void main(String[] args) {
         int num,a,temp;
         int reverse=0;

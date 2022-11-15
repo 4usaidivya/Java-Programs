@@ -11,7 +11,7 @@
 // Money in US dollars: 4.6875
 
 import java.util.*;
-public class Program_9 {
+public class Program_6 {
     public static void main(String[] args) {
         int money;
         double rate;

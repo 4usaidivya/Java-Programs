@@ -20,7 +20,7 @@
 // Enter a valid number other than 0
 
 import java.util.*;
-public class Program_4{
+public class Program_1{
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         System.out.println("....Given number is even or odd....");

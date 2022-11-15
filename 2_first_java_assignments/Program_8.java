@@ -15,7 +15,7 @@
 // geeks is not a Palindrome.
 
 import java.util.*;
-public class Program_11 {
+public class Program_8 {
    public static void main(String[] args) {
     String sr;
     int flag=0,n;

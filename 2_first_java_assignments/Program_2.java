@@ -9,7 +9,7 @@
 //        Hello Divya!!!
 
 import java.util.*;
-public class Program_5{
+public class Program_2{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.printf("Enter your name:");
